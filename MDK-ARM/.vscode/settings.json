@@ -1,0 +1,20 @@
+{
+    "files.associations": {
+        "*.m": "matlab",
+        "main.h": "c",
+        "usart.h": "c",
+        "sys.h": "c",
+        "control.h": "c",
+        "ctype.h": "c",
+        "stdint.h": "c",
+        "string.h": "c",
+        "servo.h": "c",
+        "ioi2c.h": "c",
+        "mpu6050.h": "c",
+        "dma.h": "c",
+        "gimbal.h": "c",
+        "filter.h": "c",
+        "stmflash.h": "c",
+        "delay.h": "c"
+    }
+}
